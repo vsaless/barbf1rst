@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\ContatoEntity.class
+com\example\demo\repository\BillionairesRepository.class
+com\example\demo\controller\ContatoController.class
+com\example\demo\repository\ContatoRepository.class
+com\example\demo\controller\BillionairesController.class
+com\example\demo\entity\BillionairesEntity.class
